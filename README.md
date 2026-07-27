@@ -2,7 +2,7 @@
 
 Este proyecto simula el comportamiento de una microrred de energía inteligente (Smart Grid) utilizando microcontroladores ESP32. Permite la negociación y transferencia de energía entre un nodo productor y un nodo receptor, comunicados de forma inalámbrica y monitoreados en tiempo real a través de un Dashboard web.
 
-**Autor:** Luis Alejandro Blacio Torres  
+**Autores:** Luis Blacio, Arelys Ajila, Benito Minga, Carlos Granda, Maria Chuico  
 **Carrera:** Computación (Ciclo 5)  
 **Institución:** Universidad Nacional de Loja (UNL) - Facultad de la Energía, las Industrias y los Recursos Naturales no Renovables  
 
